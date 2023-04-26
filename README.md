@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BasCalvaro
-- 👀 I’m interested in boardgames, videogames, sports, game design, programming
+- 👀 I’m interested in boardgames, videogames, sports, game design and programming
 - 🌱 I’m currently learning Javascript and WebAPI's
 - 💞️ I’m looking to collaborate on anything that will help me grow as a programmer
 
